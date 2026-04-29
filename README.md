@@ -50,6 +50,7 @@ Run the project
 python main.py
 
 📊 Use Cases
+
 Schools & Colleges
 Offices & Companies
 Events & Workshops

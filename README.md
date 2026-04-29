@@ -48,6 +48,7 @@ Install dependencies
 pip install -r requirements.txt
 Run the project
 python main.py
+
 📊 Use Cases
 Schools & Colleges
 Offices & Companies

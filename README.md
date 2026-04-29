@@ -29,6 +29,7 @@ Camera or device scans the face / ID
 System verifies identity
 Attendance is marked automatically
 Data is stored in the database
+
 📂 Project Structure
 Smart-Attendance-System/
 │── dataset/           # Stored images or data

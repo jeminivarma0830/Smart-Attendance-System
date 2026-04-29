@@ -41,6 +41,7 @@ Smart-Attendance-System/
 │── README.md          # Project documentation
 
 ▶️ Installation & Setup
+
 Clone the repository
 git clone https://github.com/your-username/smart-attendance-system.git
 Install dependencies

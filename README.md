@@ -39,6 +39,7 @@ Smart-Attendance-System/
 │── main.py            # Main application file
 │── utils.py           # Helper functions
 │── README.md          # Project documentation
+
 ▶️ Installation & Setup
 Clone the repository
 git clone https://github.com/your-username/smart-attendance-system.git

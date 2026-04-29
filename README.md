@@ -54,11 +54,13 @@ python main.py
 Schools & Colleges
 Offices & Companies
 Events & Workshops
+
 🎯 Future Improvements
 Mobile app integration
 Cloud database support
 Advanced AI accuracy improvements
 Dashboard for analytics
+
 👨‍💻 Author
 
-Your Name
+Jemini Verma

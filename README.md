@@ -31,6 +31,7 @@ Attendance is marked automatically
 Data is stored in the database
 
 📂 Project Structure
+
 Smart-Attendance-System/
 │── dataset/           # Stored images or data
 │── models/            # Trained models

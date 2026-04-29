@@ -23,6 +23,7 @@ SQLite / MySQL (Database)
 (Optional) Streamlit / Flask for UI
 
 ⚙️ How It Works
+
 User enters the classroom or office
 Camera or device scans the face / ID
 System verifies identity

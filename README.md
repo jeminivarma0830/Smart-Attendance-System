@@ -1,5 +1,7 @@
 📌 Smart Attendance System
+
 📖 Overview
+
 The Smart Attendance System is an automated solution that uses modern technologies like face recognition, biometric authentication, or RFID to record attendance efficiently. It eliminates manual entry, reduces errors, and prevents proxy attendance.
 
 🚀 Features
